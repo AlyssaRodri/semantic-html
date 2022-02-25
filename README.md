@@ -1,2 +1,5 @@
-# semantic-html
-Homework Assignment 1
+# Semantic HTML Homework Assignment
+
+## Objectives
+
+In this project, 
