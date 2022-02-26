@@ -6,12 +6,14 @@ In this project, I edited the provided code to meet the semantics guidelines for
 
 ## Screenshot of Final Page
 
-Please view my completed work here. ![Screenshot-final-page] ./assets/images/final-page-screenshot.png 
+![This is the final screenshot of my web page](./assets/images/final-page-screenshot.png).
 
 ## Link to Final Page
 
-
+ [Here is the link to my final page.](https://alyssarodri.github.io/semantic-html/ )
 
 ## Contributions
 
-I was able to get a better idea of how to order the semantics for the code from here: https://www.w3schools.com/html/html5_semantic_elements.asp
+I used this W3 Schools link to help in the [semantics formating](https://www.w3schools.com/html/html5_semantic_elements.asp).
+
+I also used the GitHub Docs resource form information of [basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
