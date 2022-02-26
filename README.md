@@ -6,10 +6,12 @@ In this project, I edited the provided code to meet the semantics guidelines for
 
 ## Screenshot of Final Page
 
-
+Please view my completed work here. ![Screenshot-final-page] ./assets/images/final-page-screenshot.png 
 
 ## Link to Final Page
 
 
 
 ## Contributions
+
+I was able to get a better idea of how to order the semantics for the code from here: https://www.w3schools.com/html/html5_semantic_elements.asp
